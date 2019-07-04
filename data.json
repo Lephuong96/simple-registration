@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "name": "Nguyen Van A",
+    "email": "bigankroi@gmail.com",
+    "phone": "320328422424"
+  },
+  {
+    "name": "Nguyen Van B",
+    "email": "bigankroi1@gmail.com",
+    "phone": "320328422424"
+  }
+]
